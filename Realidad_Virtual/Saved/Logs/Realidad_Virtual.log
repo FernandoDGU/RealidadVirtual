@@ -3079,3 +3079,2084 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.10.09-23.56.30:138][162]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.09-23.56.30:138][162]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.10.09-23.56.30:138][162]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.09-23.58.14:798][433]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.09-23.58.14:804][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.09-23.58.14:804][433]PIE: New page: PIE session: FirstPersonExampleMap (Oct 9, 2021, 1:58:14 PM)
+[2021.10.09-23.58.14:838][433]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-23.58.14:849][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010940s)
+[2021.10.09-23.58.14:850][433]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.09-23.58.14:850][433]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2021.10.09-23.58.14:850][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012526s)
+[2021.10.09-23.58.14:855][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.09-23.58.14:858][433]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.10.09-23.58.14:858][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-23.58.14:858][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-23.58.14:858][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-23.58.14:858][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-23.58.14:858][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-23.58.14:858][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-23.58.14:858][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-23.58.14:858][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-23.58.14:859][433]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.09-23.58.14:859][433]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-23.58.14:863][433]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-23.58.14:863][433]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-23.58.14:881][433]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.10.09-23.58.14:881][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-23.58.14:881][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-23.58.14:881][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-23.58.14:882][433]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-23.58.14:882][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-23.58.14:882][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.09-23.58.14:896][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-23.58.14:896][433]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-23.58.14:896][433]LogInit: FAudioDevice initialized.
+[2021.10.09-23.58.14:896][433]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2021.10.09-23.58.14:907][433]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.09-23.58.14:911][433]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.09-18.58.14
+[2021.10.09-23.58.14:911][433]LogWorld: Bringing up level for play took: 0.003689
+[2021.10.09-23.58.14:912][433]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.10.09-23.58.14:914][433]PIE: Server logged in
+[2021.10.09-23.58.14:915][433]PIE: Play in editor total start time 0.112 seconds.
+[2021.10.09-23.59.01:289][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-23.59.01:289][973]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-23.59.01:289][973]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.09-23.59.01:290][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-23.59.01:299][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.09-23.59.01:320][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-23.59.01:324][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.09-23.59.01:324][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-23.59.01:325][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-23.59.01:342][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-23.59.01:344][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.10.09-23.59.01:386][974]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.10.09-23.59.12:157][164]LogSlate: Window 'Message Log' being destroyed
+[2021.10.09-23.59.12:172][164]LogSlate: Window 'Message Log' being destroyed
+[2021.10.09-23.59.13:349][287]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.09-23.59.13:354][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.09-23.59.13:354][287]PIE: New page: PIE session: FirstPersonExampleMap (Oct 9, 2021, 1:59:13 PM)
+[2021.10.09-23.59.13:378][287]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-23.59.13:390][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012638s)
+[2021.10.09-23.59.13:391][287]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.09-23.59.13:392][287]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2021.10.09-23.59.13:392][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014156s)
+[2021.10.09-23.59.13:396][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.09-23.59.13:397][287]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.10.09-23.59.13:397][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-23.59.13:397][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-23.59.13:397][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-23.59.13:397][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-23.59.13:397][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-23.59.13:397][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-23.59.13:398][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-23.59.13:398][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-23.59.13:398][287]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.09-23.59.13:398][287]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-23.59.13:402][287]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-23.59.13:402][287]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-23.59.13:420][287]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.10.09-23.59.13:420][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-23.59.13:421][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-23.59.13:421][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-23.59.13:421][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-23.59.13:421][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-23.59.13:421][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.09-23.59.13:436][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-23.59.13:436][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-23.59.13:436][287]LogInit: FAudioDevice initialized.
+[2021.10.09-23.59.13:436][287]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2021.10.09-23.59.13:443][287]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.09-23.59.13:447][287]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.09-18.59.13
+[2021.10.09-23.59.13:447][287]LogWorld: Bringing up level for play took: 0.003754
+[2021.10.09-23.59.13:447][287]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.10.09-23.59.13:450][287]PIE: Server logged in
+[2021.10.09-23.59.13:451][287]PIE: Play in editor total start time 0.097 seconds.
+[2021.10.10-00.00.37:189][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.00.37:189][319]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.00.37:189][319]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.00.37:190][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.00.37:198][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.10-00.00.37:220][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.00.37:223][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.00.37:224][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.00.37:225][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.00.37:243][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.10.10-00.00.37:279][320]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.10.10-00.00.38:309][396]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FirstPersonBP/Guia/Ch17_1002_Diffuse.Ch17_1002_Diffuse
+[2021.10.10-00.00.41:658][691]LogTexture: Display: Building textures: Ch17_1002_Diffuse (AutoDXT, 2048X2048)
+[2021.10.10-00.00.45:868][  8]LogTexture: Display: Building textures: Ch17_1002_Diffuse (AutoDXT, 2048X2048)
+[2021.10.10-00.00.51:231][435]LogTexture: Display: Building textures: Ch17_1002_Diffuse (AutoDXT, 2048X2048)
+[2021.10.10-00.00.54:468][657]LogTexture: Display: Building textures: Ch17_1002_Diffuse (AutoDXT, 2048X2048)
+[2021.10.10-00.00.58:050][907]LogTexture: Display: Building textures: Ch17_1002_Diffuse (AutoDXT, 2048X2048)
+[2021.10.10-00.01.00:260][ 28]LogTexture: Display: Building textures: Ch17_1002_Diffuse (AutoDXT, 2048X2048)
+[2021.10.10-00.01.01:978][139]LogTexture: Display: Building textures: Ch17_1002_Diffuse (AutoDXT, 2048X2048)
+[2021.10.10-00.01.04:386][285]LogTexture: Display: Building textures: Ch17_1002_Diffuse (AutoDXT, 2048X2048)
+[2021.10.10-00.01.07:150][483]LogSavePackage: Moving '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Saved/Ch17_1002_Diffuse7D06F5634D6AAE5E413F6D9EBA35349E.tmp' to '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Content/FirstPersonBP/Guia/Ch17_1002_Diffuse.uasset'
+[2021.10.10-00.01.07:160][483]AssetCheck: New page: Asset Save: Ch17_1002_Diffuse
+[2021.10.10-00.01.07:160][483]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Guia/Ch17_1002_Diffuse.Ch17_1002_Diffuse
+[2021.10.10-00.01.08:664][626]LogSlate: Window 'Ch17_1002_Diffuse' being destroyed
+[2021.10.10-00.01.08:670][626]LogSlate: Window 'Ch17_1002_Diffuse' being destroyed
+[2021.10.10-00.01.09:242][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.10-00.01.10:074][777]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.10-00.01.10:080][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.10-00.01.10:080][777]PIE: New page: PIE session: FirstPersonExampleMap (Oct 9, 2021, 2:01:10 PM)
+[2021.10.10-00.01.10:118][777]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.01.10:131][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012993s)
+[2021.10.10-00.01.10:132][777]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.10-00.01.10:132][777]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2021.10.10-00.01.10:132][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014419s)
+[2021.10.10-00.01.10:137][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.10-00.01.10:144][777]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.10.10-00.01.10:144][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.10-00.01.10:144][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.10-00.01.10:144][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.10-00.01.10:144][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.10-00.01.10:144][777]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.10-00.01.10:144][777]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.10-00.01.10:144][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.10-00.01.10:144][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.10-00.01.10:145][777]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.10-00.01.10:145][777]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.10-00.01.10:149][777]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.10-00.01.10:149][777]LogAudioMixer: Display: 1: FrontRight
+[2021.10.10-00.01.10:167][777]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.10.10-00.01.10:167][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.10-00.01.10:167][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.10-00.01.10:167][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.10-00.01.10:168][777]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.10-00.01.10:168][777]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.10-00.01.10:168][777]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.10-00.01.10:182][777]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.10-00.01.10:182][777]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.10-00.01.10:182][777]LogInit: FAudioDevice initialized.
+[2021.10.10-00.01.10:182][777]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2021.10.10-00.01.10:190][777]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.10-00.01.10:194][777]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.09-19.01.10
+[2021.10.10-00.01.10:195][777]LogWorld: Bringing up level for play took: 0.003722
+[2021.10.10-00.01.10:195][777]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.10.10-00.01.10:197][777]PIE: Server logged in
+[2021.10.10-00.01.10:198][777]PIE: Play in editor total start time 0.119 seconds.
+[2021.10.10-00.01.19:189][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.01.19:189][847]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.01.19:189][847]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.01.19:190][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.01.19:201][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.10-00.01.19:219][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.01.19:223][847]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.10-00.01.19:223][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.01.19:224][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.01.19:240][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.01.19:242][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.10-00.01.19:276][848]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.10.10-00.01.20:910][984]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FirstPersonBP/Guia/Ch17_1002_Diffuse.Ch17_1002_Diffuse
+[2021.10.10-00.01.23:166][156]LogTexture: Display: Building textures: Ch17_1002_Diffuse (AutoDXT, 2048X2048)
+[2021.10.10-00.01.25:245][274]LogTexture: Display: Building textures: Ch17_1002_Diffuse (AutoDXT, 2048X2048)
+[2021.10.10-00.01.27:009][347]LogSavePackage: Moving '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Saved/Ch17_1002_Diffuse94EADAD742D52EA8F6606CB9F6E0F521.tmp' to '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Content/FirstPersonBP/Guia/Ch17_1002_Diffuse.uasset'
+[2021.10.10-00.01.27:021][347]AssetCheck: New page: Asset Save: Ch17_1002_Diffuse
+[2021.10.10-00.01.27:021][347]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Guia/Ch17_1002_Diffuse.Ch17_1002_Diffuse
+[2021.10.10-00.01.28:603][497]LogSlate: Window 'Ch17_1002_Diffuse' being destroyed
+[2021.10.10-00.01.28:609][497]LogSlate: Window 'Ch17_1002_Diffuse' being destroyed
+[2021.10.10-00.01.29:804][626]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.10-00.01.29:810][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.10-00.01.29:810][626]PIE: New page: PIE session: FirstPersonExampleMap (Oct 9, 2021, 2:01:29 PM)
+[2021.10.10-00.01.29:810][626]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.01.29:823][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012893s)
+[2021.10.10-00.01.29:824][626]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.10-00.01.29:824][626]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2021.10.10-00.01.29:824][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014208s)
+[2021.10.10-00.01.29:828][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.10-00.01.29:837][626]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.10.10-00.01.29:837][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.10-00.01.29:837][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.10-00.01.29:837][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.10-00.01.29:837][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.10-00.01.29:837][626]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.10-00.01.29:837][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.10-00.01.29:837][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.10-00.01.29:837][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.10-00.01.29:837][626]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.10-00.01.29:837][626]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.10-00.01.29:841][626]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.10-00.01.29:842][626]LogAudioMixer: Display: 1: FrontRight
+[2021.10.10-00.01.29:860][626]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.10.10-00.01.29:860][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.10-00.01.29:860][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.10-00.01.29:860][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.10-00.01.29:861][626]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.10-00.01.29:861][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.10-00.01.29:861][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.10-00.01.29:875][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.10-00.01.29:875][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.10-00.01.29:875][626]LogInit: FAudioDevice initialized.
+[2021.10.10-00.01.29:876][626]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2021.10.10-00.01.29:882][626]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.10-00.01.29:885][626]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.09-19.01.29
+[2021.10.10-00.01.29:886][626]LogWorld: Bringing up level for play took: 0.003852
+[2021.10.10-00.01.29:886][626]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.10.10-00.01.29:889][626]PIE: Server logged in
+[2021.10.10-00.01.29:890][626]PIE: Play in editor total start time 0.081 seconds.
+[2021.10.10-00.01.44:939][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.01.44:939][422]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.01.44:939][422]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.01.44:940][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.01.44:945][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.10-00.01.44:964][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.01.44:968][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.10-00.01.44:968][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.01.44:969][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.01.44:986][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.01.44:988][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.10.10-00.01.45:024][423]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.10.10-00.09.04:330][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.10-00.09.04:331][996]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.006
+[2021.10.10-00.09.04:332][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Guia/Ch17_nonPBR] ([1] browsable assets)...
+[2021.10.10-00.09.04:362][996]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FirstPersonBP/Guia/Ch17_nonPBR.Ch17_nonPBR]
+[2021.10.10-00.09.04:362][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Guia/Ch17_nonPBR]
+[2021.10.10-00.09.04:497][996]LogSavePackage: Moving '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Saved/Ch17_nonPBR_Auto2989DA0B240C8E81893B6C9B472073B44.tmp' to '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Saved/Autosaves/Game/FirstPersonBP/Guia/Ch17_nonPBR_Auto2.uasset'
+[2021.10.10-00.09.04:498][996]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Guia/Ch17_nonPBR_Skeleton] ([1] browsable assets)...
+[2021.10.10-00.09.04:498][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Guia/Ch17_nonPBR_Skeleton]
+[2021.10.10-00.09.04:501][996]LogSavePackage: Moving '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Saved/Ch17_nonPBR_Skeleton_Auto28C2D17FC4A37356B62F096A4BC2DF7D3.tmp' to '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Saved/Autosaves/Game/FirstPersonBP/Guia/Ch17_nonPBR_Skeleton_Auto2.uasset'
+[2021.10.10-00.09.04:501][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Guia/Ch17_nonPBR_PhysicsAsset] ([1] browsable assets)...
+[2021.10.10-00.09.04:522][996]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/FirstPersonBP/Guia/Ch17_nonPBR_PhysicsAsset.Ch17_nonPBR_PhysicsAsset]
+[2021.10.10-00.09.04:522][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Guia/Ch17_nonPBR_PhysicsAsset]
+[2021.10.10-00.09.04:533][996]LogSavePackage: Moving '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Saved/Ch17_nonPBR_PhysicsAsset_Auto2585EF8DC4D0E7FC02791EE9A77521436.tmp' to '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Saved/Autosaves/Game/FirstPersonBP/Guia/Ch17_nonPBR_PhysicsAsset_Auto2.uasset'
+[2021.10.10-00.09.04:534][996]LogFileHelpers: Auto-saving content packages took 0.203
+[2021.10.10-00.44.55:172][946]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\0_VIRTUAL\ASSD\WalkingCycle.fbx)
+[2021.10.10-00.44.55:185][946]LogFbx: Loading FBX Scene from D:\0_VIRTUAL\ASSD\WalkingCycle.fbx
+[2021.10.10-00.44.55:308][946]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.10-00.45.07:291][946]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.45.07:313][946]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.45.07:314][946]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.45.07:315][946]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.45.07:316][946]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.45.07:317][946]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.45.07:318][946]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.45.07:329][946]LogFbx: Parsing AnimStack Armature|ArmatureAction
+[2021.10.10-00.45.07:699][946]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.323108,90.237289,0.588219|0.000000,0.000000,-179.999985|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.323108,-0.588234,90.237289|0.000000,0.000000,89.999992|1.000000,1.000000,1.000000)
+[2021.10.10-00.45.07:710][946]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Armature_ArmatureAction.WalkingCycle_Armature_ArmatureAction
+[2021.10.10-00.45.07:710][946]LogFbx: Parsing AnimStack Armature|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armat
+[2021.10.10-00.45.08:838][946]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.899342,91.830322,0.095352|85.894577,-7.732488,160.468689|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.095356,-0.899353,91.830322|-0.551920,4.068226,78.181526|1.000000,1.000000,1.000000)
+[2021.10.10-00.45.08:853][946]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat.WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat
+[2021.10.10-00.45.08:853][946]LogFbx: Parsing AnimStack Armature|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armat.001
+[2021.10.10-00.45.08:913][946]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.323108,93.022682,0.588219|0.000000,0.000000,-179.999985|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.323108,-0.588234,93.022682|0.000000,0.000000,89.999992|1.000000,1.000000,1.000000)
+[2021.10.10-00.45.08:923][946]LogFbx: Parsing AnimStack Armature|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armature|
+[2021.10.10-00.45.10:055][946]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.899342,91.830322,0.095352|85.894577,-7.732488,160.468689|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.095356,-0.899353,91.830322|-0.551920,4.068226,78.181526|1.000000,1.000000,1.000000)
+[2021.10.10-00.45.10:107][946]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001.WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001
+[2021.10.10-00.45.10:107][946]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_.WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_
+[2021.10.10-00.45.10:107][946]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Ch17_nonPBR_Skeleton.  Any animation on these bones will not be imported: 
+
+ HeadTop_End_end_end  
+LeftHandThumb4_end_end  
+LeftHandIndex4_end_end  
+LeftHandMiddle4_end_end  
+LeftHandRing4_end_end  
+LeftHandPinky4_end_end  
+RightHandThumb4_end_end  
+RightHandIndex4_end_end  
+RightHandMiddle4_end_end  
+RightHandRing4_end_end  
+RightHandPinky4_end_end  
+LeftToe_End_end_end  
+RightToe_End_end_end  
+ 
+[2021.10.10-00.45.10:107][946]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.45.10:107][946]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Ch17_nonPBR_Skeleton.  Any animation on these bones will not be imported: 
+
+ HeadTop_End_end_end  
+LeftHandThumb4_end_end  
+LeftHandIndex4_end_end  
+LeftHandMiddle4_end_end  
+LeftHandRing4_end_end  
+LeftHandPinky4_end_end  
+RightHandThumb4_end_end  
+RightHandIndex4_end_end  
+RightHandMiddle4_end_end  
+RightHandRing4_end_end  
+RightHandPinky4_end_end  
+LeftToe_End_end_end  
+RightToe_End_end_end  
+ 
+[2021.10.10-00.45.10:107][946]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.45.10:107][946]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Ch17_nonPBR_Skeleton.  Any animation on these bones will not be imported: 
+
+ HeadTop_End_end_end  
+LeftHandThumb4_end_end  
+LeftHandIndex4_end_end  
+LeftHandMiddle4_end_end  
+LeftHandRing4_end_end  
+LeftHandPinky4_end_end  
+RightHandThumb4_end_end  
+RightHandIndex4_end_end  
+RightHandMiddle4_end_end  
+RightHandRing4_end_end  
+RightHandPinky4_end_end  
+LeftToe_End_end_end  
+RightToe_End_end_end  
+ 
+[2021.10.10-00.45.10:107][946]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.45.10:107][946]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Ch17_nonPBR_Skeleton.  Any animation on these bones will not be imported: 
+
+ HeadTop_End_end_end  
+LeftHandThumb4_end_end  
+LeftHandIndex4_end_end  
+LeftHandMiddle4_end_end  
+LeftHandRing4_end_end  
+LeftHandPinky4_end_end  
+RightHandThumb4_end_end  
+RightHandIndex4_end_end  
+RightHandMiddle4_end_end  
+RightHandRing4_end_end  
+RightHandPinky4_end_end  
+LeftToe_End_end_end  
+RightToe_End_end_end  
+ 
+[2021.10.10-00.45.10:107][946]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.45.10:211][947]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_.WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_
+[2021.10.10-00.45.19:579][971]LogSlate: Window 'Message Log' being destroyed
+[2021.10.10-00.45.19:592][971]LogSlate: Window 'Message Log' being destroyed
+[2021.10.10-00.45.34:047][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.10-00.45.34:055][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.10-00.45.34:055][ 62]PIE: New page: PIE session: FirstPersonExampleMap (Oct 9, 2021, 2:45:34 PM)
+[2021.10.10-00.45.34:098][ 62]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.45.34:110][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012502s)
+[2021.10.10-00.45.34:111][ 62]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.10-00.45.34:112][ 62]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2021.10.10-00.45.34:112][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013954s)
+[2021.10.10-00.45.34:138][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.10.10-00.45.34:140][ 62]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.10.10-00.45.34:140][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.10-00.45.34:140][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.10-00.45.34:140][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.10-00.45.34:140][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.10-00.45.34:140][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.10-00.45.34:140][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.10-00.45.34:140][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.10-00.45.34:140][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.10-00.45.34:141][ 62]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.10-00.45.34:141][ 62]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.10-00.45.34:145][ 62]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.10-00.45.34:145][ 62]LogAudioMixer: Display: 1: FrontRight
+[2021.10.10-00.45.34:163][ 62]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.10.10-00.45.34:164][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.10-00.45.34:164][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.10-00.45.34:164][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.10-00.45.34:165][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.10-00.45.34:165][ 62]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.10-00.45.34:165][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.10-00.45.34:179][ 62]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.10-00.45.34:179][ 62]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.10-00.45.34:179][ 62]LogInit: FAudioDevice initialized.
+[2021.10.10-00.45.34:179][ 62]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap'.
+[2021.10.10-00.45.34:184][ 62]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.10-00.45.34:189][ 62]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.09-19.45.34
+[2021.10.10-00.45.34:189][ 62]LogWorld: Bringing up level for play took: 0.004512
+[2021.10.10-00.45.34:190][ 62]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.10.10-00.45.34:192][ 62]PIE: Server logged in
+[2021.10.10-00.45.34:193][ 62]PIE: Play in editor total start time 0.139 seconds.
+[2021.10.10-00.45.42:398][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.45.42:398][ 36]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.45.42:398][ 36]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.45.42:399][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.45.42:409][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.10-00.45.42:430][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.45.42:434][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.10-00.45.42:434][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.45.42:435][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.45.42:451][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.45.42:453][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.10-00.45.42:493][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.10.10-00.45.43:635][112]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Armature_ArmatureAction.WalkingCycle_Armature_ArmatureAction
+[2021.10.10-00.45.43:777][112]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.10.10-00.45.44:188][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.10-00.45.44:202][112]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.10.10-00.45.45:443][112]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.10.10-00.46.02:011][390]LogSlate: Window 'WalkingCycle_Armature_ArmatureAction' being destroyed
+[2021.10.10-00.46.02:017][390]LogSlate: Window 'WalkingCycle_Armature_ArmatureAction' being destroyed
+[2021.10.10-00.46.02:018][390]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.46.02:018][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.46.02:133][390]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.46.02:133][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.46.02:235][390]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.46.02:235][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.46.04:708][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.10-00.46.05:545][544]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.10-00.46.05:567][544]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Armature_ArmatureAction.WalkingCycle_Armature_ArmatureAction
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat.WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001.WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_.WalkingCycle_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_
+[2021.10.10-00.46.05:756][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.10-00.46.07:388][689]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (WalkingCycle_Armature_ArmatureAction)
+[2021.10.10-00.46.08:250][784]Cmd: DELETE
+[2021.10.10-00.46.08:250][784]Cmd: ACTOR DELETE
+[2021.10.10-00.46.08:253][784]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.10.10-00.46.08:257][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.10.10-00.46.08:259][784]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.10.10-00.47.34:925][307]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\0_VIRTUAL\ASSD\WalkingCycle.fbx)
+[2021.10.10-00.47.34:946][307]LogFbx: Loading FBX Scene from D:\0_VIRTUAL\ASSD\WalkingCycle.fbx
+[2021.10.10-00.47.35:129][307]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.10-00.47.41:551][307]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.10.10-00.47.41:614][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.47.41:615][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.47.41:616][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.47.41:616][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.47.41:617][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.47.41:618][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.47.41:618][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.47.41:619][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.47.41:619][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.47.41:620][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.47.41:621][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.47.41:621][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.47.41:622][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.47.41:622][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.47.41:623][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.47.41:624][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.47.41:624][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.47.41:625][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.47.41:626][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.47.41:626][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.47.41:627][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.47.41:627][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.47.41:628][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.47.41:629][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.47.41:629][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.47.41:630][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.47.41:631][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.47.41:631][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.47.41:632][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.47.41:632][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.47.41:633][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.47.41:634][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.47.41:634][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.47.41:635][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.47.41:635][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.47.41:636][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.47.41:637][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.47.41:637][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.47.41:638][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.47.41:638][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.47.41:639][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.47.41:640][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.47.41:640][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.47.41:641][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.47.41:642][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.47.41:642][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.47.41:643][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.47.41:643][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.47.41:644][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.47.41:645][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.47.41:645][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.47.41:646][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.47.41:646][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.47.41:647][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.47.41:648][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.47.41:648][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.47.41:649][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.47.41:650][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.47.41:650][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.47.41:651][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.47.41:651][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.47.41:652][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.47.41:653][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.47.41:653][307]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.47.41:653][307]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.10.10-00.47.41:662][307]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch17_Vest
+[2021.10.10-00.47.41:662][307]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.10.10-00.47.41:675][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.47.41:675][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.47.41:675][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.47.41:676][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.47.41:676][307]LogFbx: Triangulating skeletal mesh Ch17_Vest
+[2021.10.10-00.47.41:788][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.47.41:788][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.47.41:789][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.47.41:789][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.47.41:789][307]LogFbx: Triangulating skeletal mesh Ch17_Pants
+[2021.10.10-00.47.41:958][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.47.41:958][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.47.41:958][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.47.41:958][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.47.41:958][307]LogFbx: Triangulating skeletal mesh Ch17_Boots
+[2021.10.10-00.47.42:046][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.47.42:046][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.47.42:046][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.47.42:046][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.47.42:046][307]LogFbx: Triangulating skeletal mesh Ch17_Shirt
+[2021.10.10-00.47.42:117][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.47.42:117][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.47.42:117][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.47.42:118][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.47.42:118][307]LogFbx: Triangulating skeletal mesh Ch17_Helmet
+[2021.10.10-00.47.42:262][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1002_Diffuse.png
+[2021.10.10-00.47.42:262][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1002_Normal.png
+[2021.10.10-00.47.42:262][307]LogFbx: Triangulating skeletal mesh Ch17_Hair
+[2021.10.10-00.47.42:454][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.47.42:454][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.47.42:454][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.47.42:454][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.47.42:454][307]LogFbx: Triangulating skeletal mesh Ch17_Body
+[2021.10.10-00.47.42:868][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1002_Diffuse.png
+[2021.10.10-00.47.42:868][307]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1002_Normal.png
+[2021.10.10-00.47.42:868][307]LogFbx: Triangulating skeletal mesh Ch17_Eyelashes
+[2021.10.10-00.47.42:953][307]LogFbx: Warning: Bones digested - 91  Depth of hierarchy - 14
+[2021.10.10-00.47.44:870][307]LogSkeletalMesh: Section 0: Material=0, 44726 triangles
+[2021.10.10-00.47.44:870][307]LogSkeletalMesh: Section 1: Material=1, 8998 triangles
+[2021.10.10-00.47.44:885][307]LogSkeletalMesh: Building Skeletal Mesh WalkingCycle...
+[2021.10.10-00.47.46:654][307]LogSkeletalMesh: Section 0: Material=0, 44726 triangles
+[2021.10.10-00.47.46:654][307]LogSkeletalMesh: Section 1: Material=1, 8998 triangles
+[2021.10.10-00.47.46:767][307]LogSkeletalMesh: Built Skeletal Mesh [1.88s] /Game/FirstPersonBP/Guia/WalkingCycle.WalkingCycle
+[2021.10.10-00.47.46:783][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/Jogging_Anim.Jogging_Anim
+[2021.10.10-00.47.46:807][307]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.47.46:807][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.47.46:819][307]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.47.46:819][307]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.47.46:819][307]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.47.46:819][307]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.47.46:819][307]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.47.46:819][307]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.47.46:820][307]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.47.46:821][307]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.47.46:822][307]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.47.46:823][307]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.47.46:824][307]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.47.46:825][307]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.47.46:836][307]LogFbx: Parsing AnimStack Armature|ArmatureAction
+[2021.10.10-00.47.47:285][307]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.323108,90.237289,0.588219|0.000000,0.000000,-179.999985|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.323108,-0.588234,90.237289|0.000000,0.000000,89.999992|1.000000,1.000000,1.000000)
+[2021.10.10-00.47.47:295][307]LogFbx: Parsing AnimStack Armature|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armat
+[2021.10.10-00.47.48:643][307]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.899342,91.830322,0.095352|85.894577,-7.732488,160.468689|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.095356,-0.899353,91.830322|-0.551920,4.068226,78.181526|1.000000,1.000000,1.000000)
+[2021.10.10-00.47.48:655][307]LogFbx: Parsing AnimStack Armature|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armat.001
+[2021.10.10-00.47.48:702][307]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.323108,90.237289,0.588219|0.000000,0.000000,-179.999985|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.323108,-0.588234,90.237289|0.000000,0.000000,89.999992|1.000000,1.000000,1.000000)
+[2021.10.10-00.47.48:712][307]LogFbx: Parsing AnimStack Armature|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armature|
+[2021.10.10-00.47.50:063][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat
+[2021.10.10-00.47.50:063][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001
+[2021.10.10-00.47.50:063][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_
+[2021.10.10-00.47.50:063][307]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.899342,91.830322,0.095352|85.894577,-7.732488,160.468689|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.095356,-0.899353,91.830322|-0.551920,4.068226,78.181526|1.000000,1.000000,1.000000)
+[2021.10.10-00.47.50:079][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_ArmatureAction.WalkingCycle_Anim_Armature_ArmatureAction
+[2021.10.10-00.47.50:079][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/Iddle_Anim.Iddle_Anim
+[2021.10.10-00.47.50:079][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/TalkingV2_Anim.TalkingV2_Anim
+[2021.10.10-00.47.50:079][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/Jogging_Anim.Jogging_Anim
+[2021.10.10-00.47.50:232][307]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.10.10-00.47.50:232][307]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig1:HeadTop_End_end_end  
+mixamorig1:LeftHandThumb4_end_end  
+mixamorig1:LeftHandIndex4_end_end  
+mixamorig1:LeftHandMiddle4_end_end  
+mixamorig1:LeftHandRing4_end_end  
+mixamorig1:LeftHandPinky4_end_end  
+mixamorig1:RightHandThumb4_end_end  
+mixamorig1:RightHandIndex4_end_end  
+mixamorig1:RightHandMiddle4_end_end  
+mixamorig1:RightHandRing4_end_end  
+mixamorig1:RightHandPinky4_end_end  
+mixamorig1:LeftToe_End_end_end  
+mixamorig1:RightToe_End_end_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.10.10-00.47.50:232][307]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.47.50:232][307]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.47.50:232][307]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.47.50:232][307]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.47.52:671][529]LogSlate: Window 'Message Log' being destroyed
+[2021.10.10-00.47.52:675][529]LogSlate: Window 'Message Log' being destroyed
+[2021.10.10-00.47.56:122][838]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.10-00.47.56:128][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.10-00.47.56:128][838]PIE: New page: PIE session: FirstPersonExampleMap (Oct 9, 2021, 2:47:56 PM)
+[2021.10.10-00.47.56:128][838]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.47.56:139][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011049s)
+[2021.10.10-00.47.56:140][838]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.10-00.47.56:141][838]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2021.10.10-00.47.56:141][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012405s)
+[2021.10.10-00.47.56:145][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.10.10-00.47.56:151][838]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.10.10-00.47.56:151][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.10-00.47.56:151][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.10-00.47.56:151][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.10-00.47.56:151][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.10-00.47.56:151][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.10-00.47.56:151][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.10-00.47.56:151][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.10-00.47.56:151][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.10-00.47.56:151][838]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.10-00.47.56:151][838]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.10-00.47.56:156][838]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.10-00.47.56:156][838]LogAudioMixer: Display: 1: FrontRight
+[2021.10.10-00.47.56:174][838]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.10.10-00.47.56:174][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.10-00.47.56:174][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.10-00.47.56:174][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.10-00.47.56:175][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.10-00.47.56:175][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.10-00.47.56:175][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.10-00.47.56:190][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.10-00.47.56:190][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.10-00.47.56:190][838]LogInit: FAudioDevice initialized.
+[2021.10.10-00.47.56:190][838]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonExampleMap'.
+[2021.10.10-00.47.56:200][838]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.10-00.47.56:204][838]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.09-19.47.56
+[2021.10.10-00.47.56:204][838]LogWorld: Bringing up level for play took: 0.004065
+[2021.10.10-00.47.56:205][838]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.10.10-00.47.56:207][838]PIE: Server logged in
+[2021.10.10-00.47.56:208][838]PIE: Play in editor total start time 0.081 seconds.
+[2021.10.10-00.48.08:668][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.48.08:668][323]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.48.08:668][323]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.48.08:669][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.48.08:676][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.10-00.48.08:696][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.48.08:700][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.10-00.48.08:700][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.48.08:701][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.48.08:718][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.48.08:719][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.10-00.48.08:757][324]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.10.10-00.48.25:865][576]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_ArmatureAction.WalkingCycle_Anim_Armature_ArmatureAction
+[2021.10.10-00.48.25:868][576]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.10-00.48.26:254][576]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.10.10-00.49.01:959][289]LogSlate: Window 'WalkingCycle_Anim_Armature_ArmatureAction' being destroyed
+[2021.10.10-00.49.01:965][289]LogSlate: Window 'WalkingCycle_Anim_Armature_ArmatureAction' being destroyed
+[2021.10.10-00.49.01:988][289]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.49.01:988][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.49.01:993][289]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.49.01:993][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.49.02:061][289]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.49.02:062][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.49.06:794][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.10-00.49.10:071][625]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.10-00.49.10:094][625]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_PhysicsAsset.WalkingCycle_PhysicsAsset
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle.WalkingCycle
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_ArmatureAction.WalkingCycle_Anim_Armature_ArmatureAction
+[2021.10.10-00.49.10:308][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.10-00.49.12:655][869]Cmd: DELETE
+[2021.10.10-00.49.12:655][869]Cmd: ACTOR DELETE
+[2021.10.10-00.49.12:658][869]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.10.10-00.49.12:662][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.10.10-00.49.12:663][869]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.10.10-00.51.10:533][451]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\0_VIRTUAL\ASSD\WalkingCycle.fbx)
+[2021.10.10-00.51.10:554][451]LogFbx: Loading FBX Scene from D:\0_VIRTUAL\ASSD\WalkingCycle.fbx
+[2021.10.10-00.51.10:740][451]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.10-00.51.34:047][451]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.10.10-00.51.34:115][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.51.34:116][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.51.34:117][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.51.34:117][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.51.34:118][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.51.34:119][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.51.34:119][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.51.34:120][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.017) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.51.34:121][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.51.34:121][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.51.34:122][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.51.34:122][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.51.34:123][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.51.34:124][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.51.34:124][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.51.34:125][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.016) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.51.34:126][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.51.34:126][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.51.34:127][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.51.34:127][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.51.34:128][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.51.34:129][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.51.34:129][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.51.34:130][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.019) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.51.34:130][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.51.34:131][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.51.34:132][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.51.34:132][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.51.34:133][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.51.34:133][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.51.34:134][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.51.34:135][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.020) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.51.34:135][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.51.34:136][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.51.34:137][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.51.34:137][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.51.34:138][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.51.34:138][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.51.34:139][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.51.34:140][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.022) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.51.34:140][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.51.34:141][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.51.34:141][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.51.34:142][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.51.34:143][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.51.34:143][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.51.34:144][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.51.34:144][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.018) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.51.34:145][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.51.34:146][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.51.34:146][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.51.34:147][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.51.34:148][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.51.34:148][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.51.34:149][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.51.34:149][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.021) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.51.34:150][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Vest : The relative matrices do not match
+[2021.10.10-00.51.34:151][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Pants : The relative matrices do not match
+[2021.10.10-00.51.34:151][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Boots : The relative matrices do not match
+[2021.10.10-00.51.34:152][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Shirt : The relative matrices do not match
+[2021.10.10-00.51.34:153][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Helmet : The relative matrices do not match
+[2021.10.10-00.51.34:153][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Hair : The relative matrices do not match
+[2021.10.10-00.51.34:154][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Body : The relative matrices do not match
+[2021.10.10-00.51.34:154][451]LogFbx: Warning: Not valid bind pose for Pose (Mesh.023) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.10.10-00.51.34:154][451]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.10.10-00.51.34:164][451]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch17_Vest
+[2021.10.10-00.51.34:164][451]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.10.10-00.51.34:177][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.51.34:177][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.51.34:177][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.51.34:177][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.51.34:177][451]LogFbx: Triangulating skeletal mesh Ch17_Vest
+[2021.10.10-00.51.34:289][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.51.34:289][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.51.34:289][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.51.34:289][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.51.34:289][451]LogFbx: Triangulating skeletal mesh Ch17_Pants
+[2021.10.10-00.51.34:459][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.51.34:459][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.51.34:459][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.51.34:459][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.51.34:459][451]LogFbx: Triangulating skeletal mesh Ch17_Boots
+[2021.10.10-00.51.34:546][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.51.34:546][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.51.34:546][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.51.34:546][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.51.34:546][451]LogFbx: Triangulating skeletal mesh Ch17_Shirt
+[2021.10.10-00.51.34:613][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.51.34:613][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.51.34:613][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.51.34:613][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.51.34:613][451]LogFbx: Triangulating skeletal mesh Ch17_Helmet
+[2021.10.10-00.51.34:746][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1002_Diffuse.png
+[2021.10.10-00.51.34:746][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1002_Normal.png
+[2021.10.10-00.51.34:746][451]LogFbx: Triangulating skeletal mesh Ch17_Hair
+[2021.10.10-00.51.34:922][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Diffuse.png
+[2021.10.10-00.51.34:922][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Specular.png
+[2021.10.10-00.51.34:922][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Glossiness.png
+[2021.10.10-00.51.34:922][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1001_Normal.png
+[2021.10.10-00.51.34:922][451]LogFbx: Triangulating skeletal mesh Ch17_Body
+[2021.10.10-00.51.35:301][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1002_Diffuse.png
+[2021.10.10-00.51.35:301][451]LogFbxMaterialImport: Display: Unable to find Texture file D:\home\app\mixamo-mini\tmp\skins_979d208a-518b-4b04-aade-d272614cf0d6.fbm\Ch17_1002_Normal.png
+[2021.10.10-00.51.35:301][451]LogFbx: Triangulating skeletal mesh Ch17_Eyelashes
+[2021.10.10-00.51.35:381][451]LogFbx: Warning: Bones digested - 91  Depth of hierarchy - 14
+[2021.10.10-00.51.37:298][451]LogSkeletalMesh: Section 0: Material=0, 44726 triangles
+[2021.10.10-00.51.37:298][451]LogSkeletalMesh: Section 1: Material=1, 8998 triangles
+[2021.10.10-00.51.37:313][451]LogSkeletalMesh: Building Skeletal Mesh WalkingCycle...
+[2021.10.10-00.51.39:086][451]LogSkeletalMesh: Section 0: Material=0, 44726 triangles
+[2021.10.10-00.51.39:086][451]LogSkeletalMesh: Section 1: Material=1, 8998 triangles
+[2021.10.10-00.51.39:197][451]LogSkeletalMesh: Built Skeletal Mesh [1.88s] /Game/FirstPersonBP/Guia/WalkingCycle.WalkingCycle
+[2021.10.10-00.51.39:212][451]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.51.39:212][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.51.39:221][451]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.51.39:222][451]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.51.39:223][451]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.51.39:224][451]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(0) Hips
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(1) Spine
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(2) Spine1
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(3) Spine2
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(4) Neck
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(5) Head
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(7) HeadTop_End_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(8) HeadTop_End_end_end
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(9) LeftShoulder
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(10) LeftArm
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(11) LeftForeArm
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(12) LeftHand
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2021.10.10-00.51.39:225][451]LogFbx: SortedLinks :(17) LeftHandThumb4_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(18) LeftHandThumb4_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(19) LeftHandIndex1
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(20) LeftHandIndex2
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(21) LeftHandIndex3
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(22) LeftHandIndex4
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(23) LeftHandIndex4_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(24) LeftHandIndex4_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(25) LeftHandMiddle1
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(26) LeftHandMiddle2
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(27) LeftHandMiddle3
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(28) LeftHandMiddle4
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(29) LeftHandMiddle4_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(30) LeftHandMiddle4_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(31) LeftHandRing1
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(32) LeftHandRing2
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(33) LeftHandRing3
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(34) LeftHandRing4
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(35) LeftHandRing4_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(36) LeftHandRing4_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(37) LeftHandPinky1
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(38) LeftHandPinky2
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(39) LeftHandPinky3
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(40) LeftHandPinky4
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(41) LeftHandPinky4_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(42) LeftHandPinky4_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(43) RightShoulder
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(44) RightArm
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(45) RightForeArm
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(46) RightHand
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(47) RightHandThumb1
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(48) RightHandThumb2
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(49) RightHandThumb3
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(50) RightHandThumb4
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(51) RightHandThumb4_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(52) RightHandThumb4_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(53) RightHandIndex1
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(54) RightHandIndex2
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(55) RightHandIndex3
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(56) RightHandIndex4
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(57) RightHandIndex4_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(58) RightHandIndex4_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(59) RightHandMiddle1
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(60) RightHandMiddle2
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(61) RightHandMiddle3
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(62) RightHandMiddle4
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(63) RightHandMiddle4_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(64) RightHandMiddle4_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(65) RightHandRing1
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(66) RightHandRing2
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(67) RightHandRing3
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(68) RightHandRing4
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(69) RightHandRing4_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(70) RightHandRing4_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(71) RightHandPinky1
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(72) RightHandPinky2
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(73) RightHandPinky3
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(74) RightHandPinky4
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(75) RightHandPinky4_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(76) RightHandPinky4_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(77) LeftUpLeg
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(78) LeftLeg
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(79) LeftFoot
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(80) LeftToeBase
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(81) LeftToe_End
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(82) LeftToe_End_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(83) LeftToe_End_end_end
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(84) RightUpLeg
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(85) RightLeg
+[2021.10.10-00.51.39:226][451]LogFbx: SortedLinks :(86) RightFoot
+[2021.10.10-00.51.39:227][451]LogFbx: SortedLinks :(87) RightToeBase
+[2021.10.10-00.51.39:227][451]LogFbx: SortedLinks :(88) RightToe_End
+[2021.10.10-00.51.39:227][451]LogFbx: SortedLinks :(89) RightToe_End_end
+[2021.10.10-00.51.39:227][451]LogFbx: SortedLinks :(90) RightToe_End_end_end
+[2021.10.10-00.51.39:237][451]LogFbx: Parsing AnimStack Armature|ArmatureAction
+[2021.10.10-00.51.39:672][451]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.323108,90.237289,0.588219|0.000000,0.000000,-179.999985|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.323108,-0.588234,90.237289|0.000000,0.000000,89.999992|1.000000,1.000000,1.000000)
+[2021.10.10-00.51.39:685][451]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_ArmatureAction.WalkingCycle_Anim_Armature_ArmatureAction
+[2021.10.10-00.51.39:685][451]LogFbx: Parsing AnimStack Armature|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armat
+[2021.10.10-00.51.41:055][451]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.899342,91.830322,0.095352|85.894577,-7.732488,160.468689|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.095356,-0.899353,91.830322|-0.551920,4.068226,78.181526|1.000000,1.000000,1.000000)
+[2021.10.10-00.51.41:068][451]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat
+[2021.10.10-00.51.41:068][451]LogFbx: Parsing AnimStack Armature|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armat.001
+[2021.10.10-00.51.41:116][451]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.323108,90.237289,0.588219|0.000000,0.000000,-179.999985|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.323108,-0.588234,90.237289|0.000000,0.000000,89.999992|1.000000,1.000000,1.000000)
+[2021.10.10-00.51.41:126][451]LogFbx: Parsing AnimStack Armature|Armature|Armature|Armature|mixamo.com|Layer0|Armature|Armature|
+[2021.10.10-00.51.42:526][451]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Hips:0) 
+Source Global Transform (-0.899342,91.830322,0.095352|85.894577,-7.732488,160.468689|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.095356,-0.899353,91.830322|-0.551920,4.068226,78.181526|1.000000,1.000000,1.000000)
+[2021.10.10-00.51.42:541][451]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001
+[2021.10.10-00.51.42:541][451]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_
+[2021.10.10-00.51.42:642][451]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.10.10-00.51.42:642][451]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig1:HeadTop_End_end_end  
+mixamorig1:LeftHandThumb4_end_end  
+mixamorig1:LeftHandIndex4_end_end  
+mixamorig1:LeftHandMiddle4_end_end  
+mixamorig1:LeftHandRing4_end_end  
+mixamorig1:LeftHandPinky4_end_end  
+mixamorig1:RightHandThumb4_end_end  
+mixamorig1:RightHandIndex4_end_end  
+mixamorig1:RightHandMiddle4_end_end  
+mixamorig1:RightHandRing4_end_end  
+mixamorig1:RightHandPinky4_end_end  
+mixamorig1:LeftToe_End_end_end  
+mixamorig1:RightToe_End_end_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.10.10-00.51.42:642][451]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.51.42:642][451]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.51.42:642][451]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.51.42:642][451]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2021.10.10-00.51.45:744][771]LogSlate: Window 'Message Log' being destroyed
+[2021.10.10-00.51.45:748][771]LogSlate: Window 'Message Log' being destroyed
+[2021.10.10-00.51.55:729][575]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_)
+[2021.10.10-00.51.57:203][733]Cmd: DELETE
+[2021.10.10-00.51.57:203][733]Cmd: ACTOR DELETE
+[2021.10.10-00.51.57:206][733]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.10.10-00.51.57:212][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.10.10-00.51.57:218][733]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.10.10-00.51.59:680][  3]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.10-00.51.59:686][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.10-00.51.59:686][  3]PIE: New page: PIE session: FirstPersonExampleMap (Oct 9, 2021, 2:51:59 PM)
+[2021.10.10-00.51.59:718][  3]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.51.59:729][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011243s)
+[2021.10.10-00.51.59:730][  3]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.10-00.51.59:731][  3]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2021.10.10-00.51.59:731][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012874s)
+[2021.10.10-00.51.59:735][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.10.10-00.51.59:736][  3]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.10.10-00.51.59:736][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.10-00.51.59:736][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.10-00.51.59:736][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.10-00.51.59:736][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.10-00.51.59:736][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.10-00.51.59:736][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.10-00.51.59:736][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.10-00.51.59:736][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.10-00.51.59:736][  3]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.10-00.51.59:736][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.10-00.51.59:741][  3]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.10-00.51.59:741][  3]LogAudioMixer: Display: 1: FrontRight
+[2021.10.10-00.51.59:759][  3]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.10.10-00.51.59:759][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.10-00.51.59:759][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.10-00.51.59:759][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.10-00.51.59:760][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.10-00.51.59:760][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.10-00.51.59:760][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.10-00.51.59:774][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.10-00.51.59:774][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.10-00.51.59:774][  3]LogInit: FAudioDevice initialized.
+[2021.10.10-00.51.59:774][  3]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonExampleMap'.
+[2021.10.10-00.51.59:784][  3]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.10-00.51.59:789][  3]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.09-19.51.59
+[2021.10.10-00.51.59:789][  3]LogWorld: Bringing up level for play took: 0.004141
+[2021.10.10-00.51.59:789][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.10.10-00.51.59:791][  3]PIE: Server logged in
+[2021.10.10-00.51.59:792][  3]PIE: Play in editor total start time 0.108 seconds.
+[2021.10.10-00.52.05:189][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.52.05:189][638]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.52.05:189][638]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.52.05:190][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.52.05:198][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.10-00.52.05:200][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.52.05:203][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.52.05:204][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.52.05:205][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.52.05:223][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.10-00.52.05:290][640]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.10.10-00.52.09:818][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.10-00.52.10:669][992]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.10-00.52.10:689][992]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armature_
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001.WalkingCycle_Anim_Armature_Armature_Armature_Armature_mixamo_com_Layer0_Armature_Armat_001
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle.WalkingCycle
+	Asset Name: /Game/FirstPersonBP/Guia/WalkingCycle_PhysicsAsset.WalkingCycle_PhysicsAsset
+[2021.10.10-00.52.10:912][992]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.10.10-00.52.11:256][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.10-00.52.12:620][113]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (WalkingCycle_Anim_Armature_ArmatureAction)
+[2021.10.10-00.52.20:895][  0]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.10-00.52.20:901][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.10-00.52.20:901][  0]PIE: New page: PIE session: FirstPersonExampleMap (Oct 9, 2021, 2:52:20 PM)
+[2021.10.10-00.52.20:901][  0]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.52.20:913][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011652s)
+[2021.10.10-00.52.20:914][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.10-00.52.20:914][  0]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2021.10.10-00.52.20:914][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013218s)
+[2021.10.10-00.52.20:918][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.10-00.52.20:921][  0]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.10.10-00.52.20:921][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.10-00.52.20:921][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.10-00.52.20:921][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.10-00.52.20:921][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.10-00.52.20:921][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.10-00.52.20:921][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.10-00.52.20:921][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.10-00.52.20:921][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.10-00.52.20:921][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.10-00.52.20:921][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.10-00.52.20:925][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.10-00.52.20:925][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.10-00.52.20:943][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.10.10-00.52.20:943][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.10-00.52.20:943][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.10-00.52.20:943][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.10-00.52.20:944][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.10-00.52.20:944][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.10-00.52.20:944][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.10-00.52.20:958][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.10-00.52.20:958][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.10-00.52.20:958][  0]LogInit: FAudioDevice initialized.
+[2021.10.10-00.52.20:958][  0]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonExampleMap'.
+[2021.10.10-00.52.20:964][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.10-00.52.20:968][  0]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.09-19.52.20
+[2021.10.10-00.52.20:969][  0]LogWorld: Bringing up level for play took: 0.004570
+[2021.10.10-00.52.20:969][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.10.10-00.52.20:972][  0]PIE: Server logged in
+[2021.10.10-00.52.20:972][  0]PIE: Play in editor total start time 0.073 seconds.
+[2021.10.10-00.52.34:438][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.52.34:438][608]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.52.34:438][608]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.52.34:439][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.52.34:445][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.10-00.52.34:466][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.52.34:469][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.52.34:470][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.52.34:471][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.52.34:489][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.10-00.52.34:527][609]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.10.10-00.52.38:378][986]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.10-00.52.38:384][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.10-00.52.38:384][986]PIE: New page: PIE session: FirstPersonExampleMap (Oct 9, 2021, 2:52:38 PM)
+[2021.10.10-00.52.38:418][986]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.52.38:429][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011460s)
+[2021.10.10-00.52.38:430][986]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.10-00.52.38:431][986]LogPlayLevel: PIE: World Init took: (0.001254s)
+[2021.10.10-00.52.38:431][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012925s)
+[2021.10.10-00.52.38:435][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.10-00.52.38:437][986]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.10.10-00.52.38:437][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.10-00.52.38:437][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.10-00.52.38:437][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.10-00.52.38:437][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.10-00.52.38:437][986]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.10-00.52.38:437][986]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.10-00.52.38:437][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.10-00.52.38:437][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.10-00.52.38:437][986]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.10-00.52.38:437][986]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.10-00.52.38:441][986]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.10-00.52.38:441][986]LogAudioMixer: Display: 1: FrontRight
+[2021.10.10-00.52.38:460][986]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2021.10.10-00.52.38:460][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.10-00.52.38:460][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.10-00.52.38:460][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.10-00.52.38:460][986]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.10-00.52.38:460][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.10-00.52.38:460][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.10-00.52.38:475][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.10-00.52.38:475][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.10-00.52.38:475][986]LogInit: FAudioDevice initialized.
+[2021.10.10-00.52.38:475][986]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonExampleMap'.
+[2021.10.10-00.52.38:483][986]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.10-00.52.38:488][986]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.09-19.52.38
+[2021.10.10-00.52.38:488][986]LogWorld: Bringing up level for play took: 0.004473
+[2021.10.10-00.52.38:489][986]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.10.10-00.52.38:491][986]PIE: Server logged in
+[2021.10.10-00.52.38:492][986]PIE: Play in editor total start time 0.109 seconds.
+[2021.10.10-00.52.46:898][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.52.46:898][984]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.10-00.52.46:898][984]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.10-00.52.46:899][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.52.46:910][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.10-00.52.46:931][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.10-00.52.46:934][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.10-00.52.46:935][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.52.46:936][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.10-00.52.46:954][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.10-00.52.46:993][985]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.10.10-00.52.50:162][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.10-00.52.50:189][309]LogSavePackage: Moving '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Saved/FirstPersonExampleMap27CFE8E9455C62E28D42048C43DC3371.tmp' to '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.10-00.52.50:639][309]LogSavePackage: Moving '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Saved/FirstPersonExampleMap_BuiltData723B0D054789C272189E3CBB51C39D57.tmp' to '../../../../../../0_VIRTUAL/Unrealstuff/RealidadVirtual/Realidad_Virtual/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.10-00.52.50:650][309]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.10-00.52.50:650][309]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.10-00.52.50:650][309]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
